@@ -4,7 +4,7 @@
 
 body {
     font-family: 'Lora', serif; /* Applying the imported font */
-    background-image: url('/leafbg.png'); /* Path to your background image */
+    background-image: url('https://danielwnewman.github.io/Spa-Naomi/leafbg.png'); /* Path to your background image */
     background-size: cover; /* Ensure it covers the whole page */
     background-repeat: no-repeat; /* Prevent repeating the image */
 }
